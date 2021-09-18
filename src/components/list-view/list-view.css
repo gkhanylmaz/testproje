@@ -5,3 +5,9 @@
     padding: 20px;
     width: 500px;
 }
+
+.list-view-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

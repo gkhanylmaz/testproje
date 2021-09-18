@@ -10,8 +10,10 @@ function ListView({ database, onCardClick }) {
         />
     )
     return (
-        <div className='list-view'>
-            {renderItems}
+        <div className='list-view-container'>
+            <div className='list-view'>
+                {renderItems}
+            </div>
         </div>
     )
 }
