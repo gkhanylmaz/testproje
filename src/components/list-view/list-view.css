@@ -1,0 +1,7 @@
+.list-view{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 20px;
+    padding: 20px;
+    width: 500px;
+}
